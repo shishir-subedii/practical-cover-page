@@ -2,7 +2,7 @@
 
 This project automates the generation of **college practical file cover pages**.  
 
-Instead of manually editing Word files for every subject, this script takes a **Word template** + **spreadsheet of subjects/teachers** + **student name input**, and generates **individual PDFs** and one **combined PDF**.  
+Instead of manually editing Word files for every subject, this script takes a **Word template** + **spreadsheet of subjects/teachers** + **student name input**, and generates **individual PDFs** and one **combined PDF** into a folder.  
 
 ---
 
